@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.row {
+    align-items: center;
+}
+
+.btn {
+    margin: 2% auto;
+    width: 60%;
+    height: 200px;
+}
